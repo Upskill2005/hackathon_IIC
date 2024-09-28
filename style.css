@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif; /* Change to Roboto */
-    background-image: url(bg.jpg);
+    background-image: url(bg4.webp);
     padding: 20px;
 }
 
@@ -14,7 +14,7 @@ body {
     max-width: 400px;
     margin: 0 auto;
     padding: 30px;
-    background: rgb(197, 69, 118);
+    background: rgb(224, 144, 175);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     align-content: center;
